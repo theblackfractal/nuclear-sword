@@ -1,6 +1,6 @@
 {
-  "name": "Clocktower Sword",
-  "start_url": "ClocktowerSword.glb",
+  "name": "Nuclear Sword",
+  "start_url": "NuclearSword.glb",
   "components": [
     {
       "key": "wear",
